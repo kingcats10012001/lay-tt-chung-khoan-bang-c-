@@ -1,0 +1,121 @@
+20
+Công ty Cổ phần Nhựa và Môi trường xanh An Phát
+AAA
+13.1
+11.4
+12.4
+1,149,980
+Công ty Cổ phần Thủy sản Mekong
+AAM
+11.8
+10.3
+11
+850
+Công ty cổ phần Dịch vụ Nông nghiệp Bình Thuận
+ABS
+13.2
+11.5
+12.4
+157,990
+Công ty Cổ phần Xuất nhập khẩu thủy sản Bến Tre
+ABT
+33.3
+29
+31.2
+0
+Công ty Cổ phần bê tông BECAMEX
+ACC
+18
+15.7
+16.5
+11,170
+Công ty Cổ phần Xuất nhập khẩu Thủy sản Cửu Long An Giang
+ACL
+23.8
+20.7
+22.1
+12,050
+Công ty Cổ phần Damsan
+ADS
+10.4
+9
+9.7
+470
+Công ty Cổ phần Đầu tư và Phát triển Bất động sản An Gia
+AGG
+28.8
+25.1
+27
+224,500
+Công ty Cổ phần xuất nhập khẩu An Giang
+AGM
+14.5
+12.7
+13.2
+60,650
+Công ty Cổ phần Chứng khoán Agribank
+AGR
+3.8
+3.3
+3.6
+239,370
+Công ty Cổ phần Đầu tư và Khoáng sản FLC AMD
+AMD
+3.3
+2.9
+3.1
+1,278,840
+Công ty Cổ phần Nam Việt
+ANV
+18.1
+15.8
+17.0
+90,370
+Công ty Cổ phần Chiếu xạ An Phú
+APC
+19.3
+16.8
+19.3
+38,780
+Công ty Cổ phần Chứng khoán An Phát
+APG
+9.7
+8.5
+9.1
+688,180
+Công ty Cổ phần Tập đoàn Sao Mai
+ASM
+6.1
+5.3
+5.7
+1,701,490
+Công ty Cổ phần Tập đoàn Dầu khí An Pha
+ASP
+5.9
+5.2
+5.6
+3,750
+Công ty Cổ phần Dịch vụ Hàng không Taseco
+AST
+53.7
+46.7
+51.9
+45,400
+Công ty Cổ phần An Trường An
+ATG
+0
+0
+0.8
+86,980
+Công ty Cổ phần Bibica
+BBC
+52.4
+45.6
+48.7
+250
+Công ty Cổ phần Xây dựng và Giao thông Bình Dương
+BCE
+8.5
+7.4
+8.0
+95,980
