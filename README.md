@@ -1,5 +1,14 @@
-# lay-tt-chung-khoan-bang-c
- 
+# Tiêu đề bài tập :
+Lâý thông tin từ code html lọc thông tin lấy giá chứng khoán. <br>
+Người thực hiện : Pham Trung Ta.
+
+# Hướng dẫn sử dụng :
+git clone https://github.com/kingcats10012001/lay-tt-chung-khoan-bang-c-.git
+g++ main.cpp company.cpp
+# Kiến thức nắm đựoc :
+Sử dụng cơ bản của c++ và lập trình hướng đối tượng.
+# demo code chạy
+
  ```
  clang++-7 -pthread -std=c++17 -o main company.cpp main.cpp
  ./main
