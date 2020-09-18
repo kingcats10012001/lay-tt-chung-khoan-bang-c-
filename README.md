@@ -3,7 +3,7 @@ Lâý thông tin từ code html lọc thông tin lấy giá chứng khoán. <br>
 Người thực hiện : Pham Trung Ta.
 
 # Hướng dẫn sử dụng :
-git clone https://github.com/kingcats10012001/lay-tt-chung-khoan-bang-c-.git
+git clone https://github.com/kingcats10012001/lay-tt-chung-khoan-bang-c-.git <br>
 g++ main.cpp company.cpp
 # Kiến thức nắm đựoc :
 Sử dụng cơ bản của c++ và lập trình hướng đối tượng.
